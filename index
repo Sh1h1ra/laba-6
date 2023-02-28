@@ -14,5 +14,6 @@
 </head>
 <body>
 	Лазерев Данила
+	<p><input type="button" class="b1" value="Кнопка"></p>
 </body>
 </html>
